@@ -7,3 +7,5 @@ An AI-driven routing system designed to compare standard time-optimized navigati
 * **Routing:** A* search via OpenStreetMap
 * **Simulation:** Eclipse SUMO (Actuated Signals & HBEFA Emissions)
 * **Optimization:** Green Light Optimal Speed Advisory (GLOSA)
+
+dataset links:
