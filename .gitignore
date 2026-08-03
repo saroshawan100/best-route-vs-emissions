@@ -1,0 +1,29 @@
+# Python Environments & Cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# PyTorch & BasicTS Checkpoints
+*.pt
+*.pth
+*.ckpt
+models/*
+!models/.gitkeep
+
+# SUMO Outputs & OpenStreetMap Data
+*.rou.xml
+*.rou.alt.xml
+*.poly.xml
+*.fcd.xml
+*.emission.xml
+data/*
+!data/.gitkeep
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
