@@ -1,9 +1,0 @@
-torch
-basicts
-sumolib
-traci
-scipy
-numpy
-pandas
-networkx
-osmnx
